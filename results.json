@@ -1,0 +1,202 @@
+[
+  {
+    "review_required": false,
+    "fields": {
+      "vendor_name": {
+        "value": "AWS India Pvt Ltd",
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "amount": {
+        "value": 1250.0,
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "currency": {
+        "value": "INR",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "date": {
+        "value": "2024-03-12",
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "category": {
+        "value": "software",
+        "confidence": 0.85,
+        "needs_review": false
+      },
+      "description": {
+        "value": "Cloud compute services",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "invoice_id": {
+        "value": "INV-2024-0312",
+        "confidence": 0.99,
+        "needs_review": false
+      }
+    }
+  },
+  {
+    "review_required": true,
+    "fields": {
+      "vendor_name": {
+        "value": "Zoho Corp",
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "amount": {
+        "value": 4800.0,
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "currency": {
+        "value": "INR",
+        "confidence": 0.99,
+        "needs_review": false
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.1,
+        "needs_review": true
+      },
+      "category": {
+        "value": "software",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "description": {
+        "value": "Zoho Corp software subscription for April 2024",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "invoice_id": {
+        "value": "ZHO-88821",
+        "confidence": 0.99,
+        "needs_review": false
+      }
+    }
+  },
+  {
+    "review_required": true,
+    "fields": {
+      "vendor_name": {
+        "value": "Uber",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "amount": {
+        "value": 340.0,
+        "confidence": 0.65,
+        "needs_review": true
+      },
+      "currency": {
+        "value": "INR",
+        "confidence": 0.85,
+        "needs_review": false
+      },
+      "date": {
+        "value": "2026-09-29",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "category": {
+        "value": "travel",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "description": {
+        "value": "Uber to the airport for the client meeting",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "invoice_id": {
+        "value": null,
+        "confidence": 0.1,
+        "needs_review": true
+      }
+    }
+  },
+  {
+    "review_required": true,
+    "fields": {
+      "vendor_name": {
+        "value": "DELHI METRO RAIL CORP",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "amount": {
+        "value": 30.0,
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "currency": {
+        "value": "INR",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "date": {
+        "value": "2024-04-29",
+        "confidence": 0.98,
+        "needs_review": false
+      },
+      "category": {
+        "value": "travel",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "description": {
+        "value": "Delhi Metro travel from Rajiv Chowk to Hauz Khas",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "invoice_id": {
+        "value": null,
+        "confidence": 0.2,
+        "needs_review": true
+      }
+    }
+  },
+  {
+    "review_required": true,
+    "fields": {
+      "vendor_name": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      },
+      "amount": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      },
+      "currency": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      },
+      "date": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      },
+      "category": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      },
+      "description": {
+        "value": "discussed q2 targets, revenue up 12%, john to follow up with vendors next week",
+        "confidence": 0.95,
+        "needs_review": false
+      },
+      "invoice_id": {
+        "value": null,
+        "confidence": 0.05,
+        "needs_review": true
+      }
+    }
+  }
+]
